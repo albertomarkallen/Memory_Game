@@ -3,7 +3,7 @@
 ## Description
 
 This project is an implementation of a memory game using Arduino. The game involves a sequence of LEDs and sounds that the player needs to remember and replicate by pressing the corresponding buttons. The difficulty of the game increases as the player progresses.
-![](Memory Game_bb.png)
+![](https://i.ibb.co/dKctySm/Memory-Game-bb.png)
 
 ## Table of Contents
 
